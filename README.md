@@ -13,7 +13,7 @@ This guide will help you install all required packages and system dependencies n
 ## Clone the Repository
 ```bash 
 git clone git@github.com:jmignacio05/Food-Rescue-and-Redistibution-Platform.git
-
+```
 
 ## 🔹 Recommended: Create a Virtual Environment
 
