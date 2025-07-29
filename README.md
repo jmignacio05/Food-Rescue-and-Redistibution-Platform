@@ -55,3 +55,9 @@ cd LocalRepo/Food-Rescue-and-Redistibution-Platform
 ```bash
 python food_rescue_platform/main.py
 ```
+
+
+## Team Members 
+### Fernandez, Bryan Frederick T. (Frontend Developer and UI/UX Designer)
+### Ignacio, Joaquin Miguel G. (Project Manager)
+### Maliwat, Laurenz Kyle A. (Documentation Specialist)
