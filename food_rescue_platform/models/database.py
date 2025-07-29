@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
 class Database:
-    def __init__(self, uri="mongodb+srv://joaquin:pcmr2005@cpe106l.9psmhw9.mongodb.net/", db_name="food_rescue"):
+    def __init__(self, uri="mongodb://localhost:27017/", db_name="food_rescue"):
         self.client = MongoClient(uri)
         self.db = self.client[db_name]
         self.users = self.db["users"]
